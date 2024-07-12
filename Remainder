@@ -1,0 +1,7 @@
+def remainder(num1,num2):
+  remain = num1 * 2 % (num2 * 0.5)
+  return remain
+print(remainder(15, 14))
+# should print 2
+print(remainder(9, 6))
+# should print 0
