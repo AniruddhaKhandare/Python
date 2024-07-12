@@ -1,0 +1,12 @@
+letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+def unique_english_letters(word):
+  unique = 0
+  for letter in letters:
+    if letter in word:
+      unique += 1
+  return unique
+
+print(unique_english_letters("mississippi"))
+# should print 4
+print(unique_english_letters("Apple"))
+# should print 4
