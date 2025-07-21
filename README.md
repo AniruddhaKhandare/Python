@@ -2,12 +2,6 @@
 
 A simple Python package for performing basic addition operations. Designed for learning, testing, or using as a utility in larger Python applications.
 
-![License](https://img.shields.io/github/license/AniruddhaKhandare/add)
-![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
-![Build](https://img.shields.io/github/actions/workflow/status/AniruddhaKhandare/add/python-app.yml)
-
----
-
 ## ✨ Features
 
 - Add two numbers
